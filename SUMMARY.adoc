@@ -8,6 +8,6 @@
 * link:switches.adoc[Switches]
 * link:eye-gaze.adoc[Eye gaze]
 * link:touchscreens.adoc[Touchscreens]
-* test
+* link:developing-skills.adoc[Developing Skills]
 
 

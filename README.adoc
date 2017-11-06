@@ -6,6 +6,6 @@ Each access method probably warrants its own book(!), so this can only offer an 
 
 A range of resources that complement this book can be downloaded from acecentre.org.uk. 
 
-= Acknowledgements
+*Acknowledgements*
 
 Insert any symbol copyright stuff here and thanks to any reviewers.
