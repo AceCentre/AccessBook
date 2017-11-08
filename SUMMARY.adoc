@@ -1,6 +1,6 @@
 = Summary
 
-* link:README.adoc[Basics]
+* link:README.adoc[Foreword]
 * link:Chapter1.adoc[Chapter 1]
 * link:chapter-2.adoc[Chapter 2]
 * link:Chapter3.adoc[Chapter 3]
