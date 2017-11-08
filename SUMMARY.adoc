@@ -1,12 +1,12 @@
 = Summary
 
 * link:README.adoc[Foreword]
-* link:Chapter1.adoc[Chapter 1]
-* link:chapter-2.adoc[Chapter 2]
-* link:Chapter3.adoc[Chapter 3]
-* link:voice-recognition.adoc[Voice recognition]
+* link:Introduction/Chapter1.adoc[1 Introduction]
+* link:Chapter2/Chapter2.adoc[Chapter 2]
+* link:Chapter3/Chapter3.adoc[Chapter 3]
 * link:switches.adoc[Switches]
 * link:eye-gaze.adoc[Eye gaze]
+* link:voice-recognition.adoc[Voice recognition]
 * link:touchscreens.adoc[Touchscreens]
 * link:developing-skills.adoc[Developing Skills]
 
