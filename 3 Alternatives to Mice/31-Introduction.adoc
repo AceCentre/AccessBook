@@ -8,4 +8,10 @@ If using a mouse is proving to be difficult, a good first step is to experiment 
 
 nb. is this true for android?
 
+Talk about pointer size
+
 Refer to Pointer Wizard which will automatically update your setting following assessment.  
+
+Consider the onscreen interface - are changes needed?
+
+This section is all about raising awareness of possibilities.

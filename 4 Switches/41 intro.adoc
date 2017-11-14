@@ -1,0 +1,14 @@
+= Introduction to Switches
+
+Can include links to Christopher Hills videos
+
+
+Switch Wizard
+
+Refer to more complex use of switches for full desktop control.
+
+Switches are sometimes perceived as being 'babyish'. 
+
+Stephen hawkin using switches - IR switch - did interview Dara O'Brien who was suprprised how slow.  May be also mention tried eye gaze but didn't like.
+
+Full case study of advanced user - see Michael Phillips demo on YT
