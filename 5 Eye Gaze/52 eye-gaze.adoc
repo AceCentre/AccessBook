@@ -1,1 +1,9 @@
 = Eye gaze
+
+What types of eye gaze are out there?
+
+Infra red cameras
+
+Built in
+
+Web cam options

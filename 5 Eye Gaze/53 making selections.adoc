@@ -1,0 +1,7 @@
+= Making Selections with Eye Gaze
+
+Talk about chasing cursor etc. 
+
+Dwell, blink, switch
+
+etc.
