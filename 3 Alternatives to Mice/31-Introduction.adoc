@@ -4,6 +4,8 @@ Mice tend to be used with computers and laptops, but can sometimes be used along
 
 Mice can be really useful for precise targetting, and a range of different shapes and sizes are readily available in mainstream shops.
 
+Mouse use requires coordinated movement.
+
 If using a mouse is proving to be difficult, a good first step is to experiment with the settings...  No detail here due to regular updates.  Take a look at how Call Centre does 'adjusting the mouse'
 
 nb. is this true for android?
