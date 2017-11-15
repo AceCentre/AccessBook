@@ -1,0 +1,6 @@
+= Setting up and Positioning Voice Control
+
+Most voice control software needs to learn a user’s voice before being used functionally.  This training process improves accuracy and teaches the software how an individual pronounces specific words.  
+
+Accuracy can be helped by using a good quality microphone.  Some microphones can help to filter out background noise if this is an issue.
+
