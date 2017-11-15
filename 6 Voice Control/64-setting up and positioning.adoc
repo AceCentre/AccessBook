@@ -8,6 +8,8 @@ Insert video of training...
 
 Accuracy can be helped by using a good quality microphone.  Some microphones can help to filter out background noise if this is an issue.
 
+Insert photograph...
+
 Anything here about help with training for those with dysarthria?
 
 Anything here about set up for someone with a visual impairment?  Presumably can be used with a screen reader for this?
