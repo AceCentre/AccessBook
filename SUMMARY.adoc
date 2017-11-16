@@ -1,7 +1,7 @@
 = Summary
 
 * link:README.adoc[Foreword]
-* link:Introduction/Chapter1.adoc[1 Introduction]
+* link:Introduction/Chapter1.adoc[Introduction]
 * link:Chapter2/Chapter2.adoc[Chapter 2]
 * link:Chapter3/Chapter3.adoc[Chapter 3]
 * link:switches.adoc[Switches]
