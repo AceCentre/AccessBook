@@ -1,4 +1,7 @@
-= Mouse Options
+# Mouse Options
 
-This section will go through the different types of mice that are
+This section will go through the different types of mice that are  
 available.
+
+
+
