@@ -9,6 +9,10 @@ forms a barrier to them being able to use the device. This resource is
 all about different ways we can support children and adults to access  
 screen based technology and overcome such barriers.
 
+---
+{{ 'https://vimeo.com/31942602' | noembed }}
+
+
 It is worth remembering that access methods may differ according to the  
 task in hand. This is true for all of us. For example, on an iPad, you  
 might use the onscreeen keyboard for a quick message or to input a web  
