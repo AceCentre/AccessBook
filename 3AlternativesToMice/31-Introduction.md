@@ -1,16 +1,20 @@
 # Introduction to Mice and Mice Alternatives
 
-# Mice tend to be used with computers and laptops, but can sometimes be used alongside a Windows tablet or even an android tablet.
+Mice tend to be used with computers and laptops, but can sometimes be used to control a Windows tablet or even an android tablet.
 
-Mice can be really useful for precise targetting, and a range of  
-different shapes and sizes are readily available in mainstream shops.  
-More specialist alternatives are also available.
+Mice can be really useful for precise targetting, and a range of  different shapes and sizes are readily available in mainstream shops.  More specialist alternatives are also available.
+
+When using a standard optical mouse, you need to move the whole mouse in order to move the onscreen pointer. This movement requires the use of many parts of your arm, from clicking the buttons with your fingers, moving left and right with your wrist, and even using your shoulder to move the mouse forward and back. For some people, this range of movement is difficult and fatiguing and so an alternative might be considered.
+
+... changing mouse settings, different onscreen cursor sizes and colours ...
 
 _What skills do you need to use a mouse?_
 
-Mouse use requires coordinated movement.
+Mouse use requires some sort of coordinated movement in order to move an onscreen cursor in multiple directions.
+
+All mice and mice alternatives require some general knowledge and skills around controlling an onscreen cursor, making selections and dragging dropping.  However, software and activities are available to support this learning.  For example My First Mouse and IT Mouse Skills.  See the skill development section for more information \[link\]
 
 _Any contraindications?_
 
-fkjlfdas;l
+Although there are a wide range of mouse alternatives available, they all require some sort of coordinated movement.  If this is not possible, another type of access method should be considered.
 
