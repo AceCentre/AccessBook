@@ -12,6 +12,7 @@ screen based technology and overcome such barriers.
 ---
 {{ 'https://vimeo.com/31942602' | noembed }}
 
+Any controlled movement which can be repeated on demand can be used to control technology. Even the smallest movement such as an eye blink, finger flexion or intake of breath can be harnessed. The degree to which an access method is appropriate for an individual will be influenced by their physical, sensory and cognitive abilities.  Whatever the method, it needs to be  quick and easy, and it must be reliable.
 
 It is worth remembering that access methods may differ according to the  
 task in hand. This is true for all of us. For example, on an iPad, you  

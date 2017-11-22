@@ -8,6 +8,8 @@ expand.
 
 Talk about assessment and multidisciplinary team
 
+When identifying an appropriate access method \(s\) for an individual, there are some key factors to think about.  These include the amount of effort that is involved in making a selection using the device and the amount of movement that is required to use it.  The durability of the proposed access method may also be an important consideration as it needs to be reliable.
+
 Talk about importance of seating and positioning - a before and after  
 photo showing the implications of bad / good seating would be great. AAC  
 Rerc have done paper on effect of seating on access. Recommend contact  

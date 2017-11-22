@@ -12,7 +12,7 @@ _What skills do you need to use a mouse?_
 
 Mouse use requires some sort of coordinated movement in order to move an onscreen cursor in multiple directions.
 
-All mice and mice alternatives require some general knowledge and skills around controlling an onscreen cursor, making selections and dragging dropping.  However, software and activities are available to support this learning.  For example My First Mouse and IT Mouse Skills.  See the skill development section for more information \[link\]
+All mice and mice alternatives require some general knowledge and skills around controlling an onscreen cursor, making selections and dragging dropping. This requires a higher level of understanding than the more direct pointer control offered by a touchscreen.  However, software and activities are available to support this learning.  For example My First Mouse and IT Mouse Skills.  See the skill development section for more information \[link\]
 
 _Any contraindications?_
 
