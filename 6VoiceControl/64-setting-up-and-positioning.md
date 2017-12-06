@@ -1,4 +1,4 @@
-= Setting up and Positioning Voice Control
+# Setting up and Positioning Voice Control
 
 *Set up*
 

@@ -1,9 +1,8 @@
-= Making Selections with Voice Control
+# Making Selections with Voice Control
 
 Voice control requires the use of some specific spoken commands such as
 “show desktop”, “drag mouse down faster” and “press enter”. These
-commands will need to be learned, but for individuals who find
-remembering them tricky, a cheatsheet next to the computer can help.
+commands will need to be learned, but for individuals who find remembering them tricky, a cheatsheet next to the computer can help.
 
 Insert video here of someone navigating their desktop / tablet using
 voice control....
