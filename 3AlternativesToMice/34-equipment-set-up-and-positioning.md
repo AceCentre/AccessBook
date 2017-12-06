@@ -1,4 +1,4 @@
-= Setting up and Positioning Mice
+# Setting up and Positioning Mice
 
 Mouse set up - maybe a short video on connecting.
 

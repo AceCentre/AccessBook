@@ -1,4 +1,4 @@
-= Making Selections with a Mouse or Mouse Alternative
+# Making Selections with a Mouse or Mouse Alternative
 
 This is where talk about mechanics of using a mouse and different
 options available.
