@@ -1,5 +1,4 @@
-#
-Glossary
+#Glossary
 
 ## Capacitive Touchscreen
 
