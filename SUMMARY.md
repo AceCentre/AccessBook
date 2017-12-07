@@ -22,7 +22,6 @@
   * Equipment setup and positioning
   * Evaluation
   * Further information
-  * 
 * [Touchscreens](5Touchscreens/51-intro.md)
 * [Voice Control](6VoiceControl/61-intro.md)
 * [Switches](7Switches/71-intro.md)
