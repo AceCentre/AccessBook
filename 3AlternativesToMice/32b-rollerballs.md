@@ -4,7 +4,7 @@ _nb. doesn't one of our potential case studies use a rollerball with his foot?  
 
 A rollerball is a type of mouse with a rotating ball that is typically moved with a finger or thumb. With a standard optical mouse, you need to move the whole mouse unit in order to move the onscreen pointer, whereas with a rollerball, you simply move the ball on the unit.  As a result, rollerball mice can be useful for people who have reduced movement, or who find the amount of movement involved in operating a standard mouse fatiguing.
 
-Rollerball mice are available in a wide variety of shapes, sizes and weights, ranging from large colourful devices aimed at the early years market to miniature handheld device aimed primarily at people giving presentations.  Sometimes separate left and right handed versions are available. The wide range of rollerball mice means that they can suit many different wrist positions and resting shape of hands.  
+Rollerball mice are available in a wide variety of shapes, sizes and weights, ranging from large colourful devices aimed at the early years market to miniature handheld device aimed primarily at people giving presentations.  Sometimes separate left and right handed versions are available. The wide range of rollerball mice means that they can suit many different wrist positions and resting shape of hands.
 
 For example, from slight rotation outwards \(pic example of ergonomic with wrist slightly rotated?\)
 
@@ -21,6 +21,8 @@ Rollerballs can be connected to screen based technology via usb or Bluetooth, de
 _What skills do you need to use a rollerball mouse?_
 
 As with all mice, coordinated movement is required.  In most cases, a rollerball will be operated using hand and / or finger movement.  However, the exact nature of the movement and control required varies according to the model.  For example, a finger mouse can be used with a stabilised wrist and movement in the thumb and index finger only.  A mouse with a larger trackball, however, may require movement of the wrist left to right.  _something here about using it with other body parts?!?_
+
+_Any contraindications?_
 
 _Examples of rollerball mice _
 
