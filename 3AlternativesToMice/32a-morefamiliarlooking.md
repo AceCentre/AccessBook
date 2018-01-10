@@ -4,7 +4,7 @@ We are probably all experienced in used a standard mouse to control a cursor on 
 
 In the past, mice had a ball fitted in their base, but modern mice make use of optical sensors.  The old fashioned mechanical mice required more movement than the optical mice and were rather prone to being sticky! The more modern optical and laser mice rely on LEDs \(light emitting diodes\) to detect two dimensional movement relative to a flat surface.  They are the most common type of mice on the market.
 
-Most standard mice are a fairly similar shape \(gently curved like the body of a mouse\), and involve the hand being in a horizontal position resting over it.  Ergonomic mice look a little different, and aim either to put the hand or wrist in a more 'natural' position, perhaps rotating the palm so it is more vertical, and / or to change the way the arm moves when using the mouse.  Ergonomic mice are intended to be more comfortable to use and to reduce injuries such as repetitive strain injury \(RSI\).
+Most standard mice are a fairly similar shape \(gently curved like the body of a mouse\), and involve the hand being in a horizontal position resting over it.  Ergonomic mice look a little different, and aim either to put the hand or wrist in a more 'natural' position, perhaps rotating the palm so it is more vertical, and / or to change the way the arm moves when using the mouse to reduce wrist movement.  Ergonomic mice are intended to be more comfortable to use and to reduce injuries such as repetitive strain injury \(RSI\).
 
 Standard mice are available in smaller sizes to make them easier and more comfortable to use for children.
 
@@ -38,12 +38,7 @@ Research suggests excessive use could lead to health problems including repetiti
 
 _Further information_
 
-There are different variants of standard mice, including but not limited to:
+Cornell University offer 10 tips for using a standard mouse to help avoid injury: http://ergo.human.cornell.edu/cumousetips.html 
 
-* mechanical mice - these are the old fashioned mice with the ball fitted in the base.  They required more movement than the more modern optical mice and were rather prone to being sticky!
-* optical and laser mice - these rely on LEDs \(light emitting diodes\) to detect two dimensional movement relative to a flat surface.  These are the most common type of mice on the market.  
-* ergonomic mice - these are a variant of optical and laser mice that are designed to be more comfortable to hold.
-* air, inertial and gyroscopic mice - these are mice that detect movement in three dimensions without the need for a flat surface. \[\*given that we have defined a standard mouse as something that moves on  flat surface, I'm wondering if these need to be relocated! Perhaps even to their own small sub-section? Otherwise we will need to revisit the standard definition!\*\]
-
-
+Need to put the gyroscopic mouse info somewhere:  air, inertial and gyroscopic mice - these are mice that detect movement in three dimensions without the need for a flat surface.
 
