@@ -26,7 +26,7 @@ _Advantages_
 
 Most standard mice are plug and play which makes them very flexible.
 
-A standard mouse can be bought very cheaply and they are widely available.
+Standard mice can be bought very cheaply and they are widely available.
 
 _Disadvantages_
 
@@ -38,7 +38,7 @@ Research suggests excessive use could lead to health problems including repetiti
 
 _Further information_
 
-Cornell University offer 10 tips for using a standard mouse to help avoid injury: http://ergo.human.cornell.edu/cumousetips.html 
+Cornell University offer 10 tips for using a standard mouse to help avoid injury: [http://ergo.human.cornell.edu/cumousetips.html](http://ergo.human.cornell.edu/cumousetips.html)
 
 Need to put the gyroscopic mouse info somewhere:  air, inertial and gyroscopic mice - these are mice that detect movement in three dimensions without the need for a flat surface.
 
