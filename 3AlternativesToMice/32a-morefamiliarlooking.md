@@ -4,23 +4,39 @@ We are probably all experienced in used a standard mouse to control a cursor on 
 
 In the past, mice had a ball fitted in their base, but modern mice make use of optical sensors.  The old fashioned mechanical mice required more movement than the optical mice and were rather prone to being sticky! The more modern optical and laser mice rely on LEDs \(light emitting diodes\) to detect two dimensional movement relative to a flat surface.  They are the most common type of mice on the market.
 
-Most standard mice are a fairly similar shape \(similar to a mouse's body\), and involve the hand being in a horizontal position resting over the body of the mouse.  Ergonomic mice look a little different, and aim either to put the hand or wrist in a more 'natural' position, perhaps rotating the palm so it is more vertical, and / or to change the way the arm moves when using the mouse.  Ergonomic mice are intended to be more comfortable to use and to reduce injuries such as repetitive strain injury \(RSI\).
+Most standard mice are a fairly similar shape \(gently curved like the body of a mouse\), and involve the hand being in a horizontal position resting over it.  Ergonomic mice look a little different, and aim either to put the hand or wrist in a more 'natural' position, perhaps rotating the palm so it is more vertical, and / or to change the way the arm moves when using the mouse.  Ergonomic mice are intended to be more comfortable to use and to reduce injuries such as repetitive strain injury \(RSI\).
+
+Standard mice are available in smaller sizes to make them easier and more comfortable to use for children.
 
 Most standard mice have two built in left and right buttons to facilitate making selections with the onscreen cursor, although the number does vary, and a wheel for scrolling.  The scroll wheel can usually be used as a third button.  Mice optimised for computer gaming \(gaming mice\) may have many more buttons.
 
+Wireless and wired \(typically usb\) versions are available.
+
 _What skills do you need to use a standard mouse?_
 
+A standard mouse requires coordinated hand and arm movement.  There needs to be movement at the wrist plus likely elbow and shoulder movement.  If the built in mouse buttons are to be used, some controlled finger movement and pressure is required to operate them.
 
+_Any contraindications?_
 
-Any contraindications?
+_Examples of standard mice_
 
-Examples of standard mice
+Standard mice are available from a wide variety of sellers.
 
-Advantages
+_Advantages_
 
-Disadvantages
+Most standard mice are plug and play which makes them very flexible.
 
-Further information
+A standard mouse can be bought very cheaply and they are widely available.
+
+_Disadvantages_
+
+To accurately access the whole screen, movement is required in all directions.
+
+Standard mice require a smooth flat space close to the computer or tablet.
+
+Research suggests excessive use could lead to health problems including repetitive strain injury \(RSI\).
+
+_Further information_
 
 There are different variants of standard mice, including but not limited to:
 
